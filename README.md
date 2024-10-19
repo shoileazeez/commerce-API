@@ -11,7 +11,7 @@ A Django Rest Framework-based API for an e-commerce platform that allows users t
 - Notifications for orders
 
 ## Installation
-1. Clone the repository: 
+1. Clone the repository: `https://github.com/shoileazeez/commerce-API.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set environment variables: `PAYSTACK_SECRET_KEY=your_key`
 4. Run database migrations: `python manage.py migrate`
@@ -29,4 +29,4 @@ To run tests: `python manage.py test`
 This project is licensed under the MIT License.
 
 ## Contact
-Created by [Your Name](https://yourwebsite.com).
+Created by [shoile abdulazeez](https://yourwebsite.com).
